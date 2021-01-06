@@ -9,4 +9,4 @@ The initial commit contains most of the core features I need, any future updates
 
 Development is done on python 3.4.3, but this program is simple enough that I've had it run fine on python 2 before without any changes.
 
-Simply download the source and run 'python main.py' press '?' while the program is running for a help screen to run through the controls
+Simply download the source and run `python main.py` press `?` while the program is running for a help screen to run through the controls
